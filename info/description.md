@@ -1,1 +1,1 @@
-Turn on/off computers and control them with VNC
+Control and see an wanscam camera (only jw-0004 is supported for now)

@@ -1,1 +1,1 @@
-Allumer/éteindre un ordinateur et le contrôler avec VNC
+Contrôler et regarder une caméra wanscam (seul la jw-0004 est géré pour le moment)
